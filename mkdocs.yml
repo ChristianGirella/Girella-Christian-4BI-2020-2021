@@ -1,2 +1,8 @@
+
+site_name: Girella_Christian
+
+nav:
+    - 'index.md': 'index.md'
+
 theme:
       name: readthedocs
